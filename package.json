@@ -1,0 +1,18 @@
+{
+  "name": "jiangyou-huaxia",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "匠游华夏 · 以 3D 历史地图为载体的非遗传播平台（宋代非遗街区 Demo）",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "babylonjs": "^7.54.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
